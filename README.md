@@ -7,7 +7,7 @@ After years working in the sports, retail and events I'm relishing the challenge
 |     Project     |                                           Description                                          |                        Tech                        |
 |:---------------:|:----------------------------------------------------------------------------------------------:|:--------------------------------------------------:|
 | [Nah'Mazon](https://github.com/TimCPB/Nah-Mazon)    | Group project - an 'Amazon alternative' marketplace app to connect smaller, independent businesses with local customers                                                            | React, Express, Node, MongoDB                      |
-| [Acebook-Kindred](https://github.com/NikitaDouglas/acebook-Kindred) | Social media app with posting and liking functionality. Includes encrypted user authentication | Ruby on Rails, PostgreSQL, ActiveRecord, Bootstrap |
+| [Acebook-Kindred](https://github.com/NikitaDouglas/acebook-Kindred) | Group project - a social media app with posting and liking functionality. Includes encrypted user authentication | Ruby on Rails, PostgreSQL, ActiveRecord, Bootstrap |
 | [Bank Tech Test](https://github.com/TimCPB/Bank)  | A CLI program emulating a bank account, with a focus on TDD, BDD, OOP                          | Ruby                                               |
 
 
