@@ -1,6 +1,6 @@
 
   
-## Tim Bishop
+<h1 align="center">Tim Bishop<h1>
 
 <div align="center">
   
