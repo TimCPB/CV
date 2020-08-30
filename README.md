@@ -36,7 +36,7 @@ Makers - projects - swapping roles, etc etc
 
 #### Extras to mention
 
-- Organising trips
+- Organising trips!
 - Overhaul of sales strategy
 
 
