@@ -15,6 +15,8 @@ After years working in the sports, retail and events I'm relishing the challenge
 
 </div>
 
+
+
 ### Projects
 
 |     Project     |                                           Description                                          |                        Tech                        |
