@@ -2,8 +2,9 @@
   
 <h1 align="center">Tim Bishop</h1>
 
-
+<div>
 After years working in the sports, retail and events I'm relishing the challenge of throwing myself into the world of software development with Makers. My favourite part of the course is collaberating with fellow students and their different perspectives to problem solve and create working code. I'm only at the start of my tech journey but already I'm excited by the idea of working with other like-minded coders to create technology that can improve people's experiences of the world around us.
+<div>
 
 <div align="center">
   
