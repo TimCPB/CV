@@ -18,6 +18,15 @@ After years working in the sports, retail and events I'm relishing the challenge
 
 </h2>
 
+<h2 align="center">
+
+![Ruby commits](https://img.shields.io/badge/Ruby-266%20commits-%23CC342D?style=flat-square&logo=ruby&logoColor=white)
+![JavaScript commits](https://img.shields.io/badge/JavaScript-141%20commits-%23c5b218?style=flat-square&logo=javascript&logoColor=white)
+![HTML commits](https://img.shields.io/badge/HTML-1297%20commits-%23E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS commits](https://img.shields.io/badge/CSS-72%20commits-%231572B6?style=flat-square&logo=css3&logoColor=white)
+
+</h2>
+
 
 <div>
   
@@ -101,6 +110,3 @@ Sports in general, and cycling in particular, take up a lot of my free time. I h
 Podcasts - reply all, other podcasts
 
 ### Contact/Links
-
-[![LinkedIn Profile]](https://www.linkedin.com/in/timothy-bishop-77917a170/)
-[![Email]](mailto:timcpb@outlook.com)
