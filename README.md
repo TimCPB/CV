@@ -20,16 +20,11 @@ Driven, enthusiastic and empathetic full-stack developer. A fast learner with ex
 
 <h2 align="center">
 
-<!-- ![Ruby commits](https://img.shields.io/badge/Ruby-266%20commits-%23CC342D?style=flat-square&logo=ruby&logoColor=white)
-![JavaScript commits](https://img.shields.io/badge/JavaScript-141%20commits-%23c5b218?style=flat-square&logo=javascript&logoColor=white)
-![HTML commits](https://img.shields.io/badge/HTML-129%20commits-%23E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS commits](https://img.shields.io/badge/CSS-72%20commits-%231572B6?style=flat-square&logo=css3&logoColor=white) -->
-
 <div align="center">
-<a href="https://sourcerer.io/timcpb" target="_blank"><img src="https://img.shields.io/badge/Ruby-266%20commits-%23CC342D?style=flat-square&logo=ruby&logoColor=white"></a>
-<a href="https://sourcerer.io/timcpb" target="_blank"><img src="https://img.shields.io/badge/JavaScript-141%20commits-%23c5b218?style=flat-square&logo=javascript&logoColor=white"></a>
-<a href="https://sourcerer.io/timcpb" target="_blank"><img src="https://img.shields.io/badge/HTML-129%20commits-%23E34F26?style=flat-square&logo=html5&logoColor=white"></a>
-<a href="https://sourcerer.io/timcpb" target="_blank"><img src="https://img.shields.io/badge/CSS-72%20commits-%231572B6?style=flat-square&logo=css3&logoColor=white"></a>
+<a href="https://sourcerer.io/timcpb"><img src="https://img.shields.io/badge/Ruby-266%20commits-%23CC342D?style=flat-square&logo=ruby&logoColor=white"></a>
+<a href="https://sourcerer.io/timcpb"><img src="https://img.shields.io/badge/JavaScript-141%20commits-%23c5b218?style=flat-square&logo=javascript&logoColor=white"></a>
+<a href="https://sourcerer.io/timcpb"><img src="https://img.shields.io/badge/HTML-129%20commits-%23E34F26?style=flat-square&logo=html5&logoColor=white"></a>
+<a href="https://sourcerer.io/timcpb"><img src="https://img.shields.io/badge/CSS-72%20commits-%231572B6?style=flat-square&logo=css3&logoColor=white"></a>
 </div>
 
 </h2>
