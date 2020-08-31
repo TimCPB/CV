@@ -99,3 +99,8 @@ Management Team
 Sports in general, and cycling in particular, take up a lot of my free time. I have spent the last few years training hard and competing at a high level in road races across the country. For the 2018/19 season I took on a management role with the 1904RT men’s and women’s racing team which meant juggling budgets, securing sponsorships and organising 2 road races. I even managed to fit in a Highland quadrathlon. Even before the Covid-19 pandemic struck I had planned to take a step back from sports in 2020 to focus on my career change. Now, as we can't currently travel or socialise, I'm trying to spend what little time isn't spent coding catching up on some reading, walking and buying groceries online!
 
 Podcasts - reply all, other podcasts
+
+### Contact/Links
+
+[![LinkedIn Profile]](https://www.linkedin.com/in/timothy-bishop-77917a170/)
+[![Email]](mailto:timcpb@outlook.com)
