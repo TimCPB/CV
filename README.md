@@ -43,33 +43,22 @@ Driven, enthusiastic and empathetic full-stack developer. A fast learner with ex
 
 ### Skills
 
-#### Drive and follow through - Project management??
 
-Over consecutive years I took the concept of a "Cycling Demo Day" on Box Hill from a small gathering of regular customers and one or two niche brands to a large event attracting global brands like BMC, Look, Cervelo and Assos. It became a cornerstone of our sales projections for the year and companies like Canyon even reached out for advice on running their own, similar events.
+#### Communication
+
+I believe communication is key to effective collaboration and to a healthy, respectful and fun workplace. I took pride in building a loyal and diverse community of customers during my time at Maison Du Velo, which meant engaging and building relationships with people who approached cycling from completely different perspectives, from complete beginners to dedicated enthusiasts. Being able to communicate the needs of our customers and our business priorities was also essential in maintaining good relations with a wide range of product distributors in order to simultaneously secure the best possible prices and maintain purchasing flexibility.
+
+
+#### Collaboration / Team Work
+
+Since starting at Makers and in the projects I've been working on since I've been delighted to discover just how collaborative the process of software development can be. Pairing has been the most enjoyable part of my work and, for me, it's also one of the best routes towards good code, good problem solving and good learning. Communication is once again key and I've found that articulating my thinking as a driver and asking questions as a navigator, whether about problems or solutions, is one of the most effective and rewarding ways of learning.
+
 
 #### Leadership
 
 Working with a small core team and a wider cast of part-time staff means that clear and open communication is vital. At Maison Du Velo we didn't necessarily have the number of people necessary to have specialised roles for things like event management, online sales and social media communications so I instituted and lead short daily task settings and weekly 'lessons leanrt' meetings. This helped us to priroitise, kept everyone accountable, made efficient use of our time and ensured that no customers or projects were neglected.
 
 I found this experience transferred very well into the Agile processes we used during our project work at Makers. By the halfway mark of our final, two week project it had become clear to me that our team had lost our way and were not on track to deliver a product matching the brief we had set ourselves. I organised an d led an emergency meeting and planning session during which we talked honestly, without blame, about where we had gone wrong. We agreed to streamline our product and broke it down into small, achievable goals, arranged into two, two day sprints. We met our brief and delivered a product we were all proud of.
-
-#### Communication
-
-Building customer base with weekly rides. Interviews in cycling press - quoted as ask the expert
-
-Project work - create open, honest environment and to knowledge share
-
-
-#### Collaboration / Team Work
-
-MDV - collaborating with designers, reps and distributors to problem solve and arrange mutually beneficial buying agreements
-
-Makers - projects - swapping roles, etc etc
-
-#### Extras to mention
-
-- Organising trips!
-- Overhaul of sales strategy
 
 
 ## Education
