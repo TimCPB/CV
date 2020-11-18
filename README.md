@@ -72,24 +72,21 @@ Makers - projects - swapping roles, etc etc
 
 ## Education
 
-#### Makers Academy (May 2020 Start)
+#### Makers Academy (May - August 2020)
 
-- A 16 week intensive coding bootcamp, relying primarily on **self-led learning**
+- A 12 week intensive coding bootcamp, relying primarily on **self-led learning**
 - Strong focus on **Object-Orientated Programming** and **Test Driven Development**
 - Group work conducted using **Agile** processes with an emphasis on **XP** values
 - **Pair programming** almost every day
 - All pairing and group work was **remote** due to Covid-19
 
-#### LSE 2005-2007
+#### London School of Economics & Political Science 2004-2006
 
-London School of Economics & Political Science
-International Relations — 2004-2007                          
-International Relations, Political Theory, International History, Spanish Language and Culture
-Certificate of completion, Part I
+- International Relations - Certificate of completion, Part I - Political Theory, Intl History, and Spanish language
 
-#### Hewett School Sixth Form College
-2001-2003
-A-levels in History (A), Sociology (A), Spanish (B), Maths (B)
+#### Hewett School Sixth Form College 2001-2003 & Fakenham High School 1996-2003
+- A-levels in History (A), Sociology (A), Spanish (B), Maths (B)
+- GCSEs:  7 A* grades (including Maths, triple Science, Spanish and French) and 4 A grades)
 
 
 #### Any other qualifications
