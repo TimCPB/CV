@@ -49,7 +49,9 @@ Over consecutive years I took the concept of a "Cycling Demo Day" on Box Hill fr
 
 #### Leadership
 
-Working with a small core team and a wider cast of part-time staff means that clear and open communication is vital. At Maison Du Velo we don't necessarily have the number of people necessary to have specialised roles for things like event management, online sales, social media communications so I instituted and lead short daily task settings and weekly 'lessons leanry' meetings. This helped us to make sure we remained on the same page, made efficient use of our time and energy and that no customers or projects were neglected. It meant that ultimately we were able to expand the business from one to two shops, with a third in the pipeline, without expanding our core staff. More than that it also helped to ensure a harmonious and happy working environment that I was very sad to leave 
+Working with a small core team and a wider cast of part-time staff means that clear and open communication is vital. At Maison Du Velo we didn't necessarily have the number of people necessary to have specialised roles for things like event management, online sales and social media communications so I instituted and lead short daily task settings and weekly 'lessons leanrt' meetings. This helped us to priroitise, kept everyone accountable, made efficient use of our time and ensured that no customers or projects were neglected.
+
+I found this experience transferred very well into the Agile processes we used during our project work at Makers. By the halfway mark of our final, two week project it had become clear to me that our team had lost our way and were not on track to deliver a product matching the brief we had set ourselves. I organised an d led an emergency meeting and planning session during which we talked honestly, without blame, about where we had gone wrong. We agreed to streamline our product and broke it down into small, achievable goals, arranged into two, two day sprints. We met our brief and delivered a product we were all proud of.
 
 #### Communication
 
