@@ -91,19 +91,16 @@ Makers - projects - swapping roles, etc etc
 
 ## Experience
 #### Maison Du Velo - Cycle Retailer, Hub, Cafe & Events Company (2014 - 2020)
-##### Sales Assistant (2014)
-##### Cafe Manager (2015 - 2017)
-##### Senior Management Team (2017 - 2020)
+- My role evolved from a **Sales Assistant (2014)** to **Cafe Manager (2015 - 2017)** to **Senior Management Team (2017 - 2020)**
 
-- Leading a team across two shops, with responsibilities across the many areas required to run a small business
-
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+- ???
 
 ## Hobbies
 
-Sports in general, and cycling in particular, take up a lot of my free time. I have spent the last few years training hard and competing at a high level in road races across the country. For the 2018/19 season I took on a management role with the 1904RT men’s and women’s racing team which meant juggling budgets, securing sponsorships and organising 2 road races. I even managed to fit in a Highland quadrathlon. Even before the Covid-19 pandemic struck I had planned to take a step back from sports in 2020 to focus on my career change. Now, as we can't currently travel or socialise, I'm trying to spend what little time isn't spent coding catching up on some reading, walking and buying groceries online!
+- Regularly attend tech meetups such as Codebar and volunteer at CodeYourFuture
+- British Cycling Cat 3 racer, club chairman and race organiser
+- Aspiring climber and yogi
+- Avid podcast listener - currently binge-listening to Gimlet's Reply All back catalogue
 
 Podcasts - reply all, other podcasts
 
