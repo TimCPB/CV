@@ -89,13 +89,12 @@ Makers - projects - swapping roles, etc etc
 - GCSEs:  7 A* grades (including Maths, triple Science, Spanish and French) and 4 A grades)
 
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
-
 ## Experience
-Maison Du Velo - Cycle Retailer, Hub, Cafe & Events Company   
-Management Team  
+#### Maison Du Velo - Cycle Retailer, Hub, Cafe & Events Company (2014 - 2020)
+##### Sales Assistant (2014)
+##### Cafe Manager (2015 - 2017)
+##### Senior Management Team (2017 - 2020)
+
 - Leading a team across two shops, with responsibilities across the many areas required to run a small business
 
 **Company Name** (start_date to end_date)   
