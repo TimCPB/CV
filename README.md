@@ -4,7 +4,7 @@
 
 <div>
   
-Driven, enthusiastic and empathetic full-stack developer. A fast learner with experience in Ruby and JavaScript, I’ve recently graduated from Makers Academy. After several years building a career around my love of cycling, I relished the fresh challenge of Makers and am excited to build a new life as a developer.
+Driven, enthusiastic and empathetic full-stack developer. A fast learner with experience in Ruby and JavaScript, I’ve recently graduated from Makers Academy. After several years of building a career around my love of cycling, I relished the fresh challenge of Makers and am excited to build a new life as a developer.
   
 </div>
 
@@ -57,9 +57,9 @@ Since starting at Makers and in the projects I've been working on since I've bee
 
 #### Leadership
 
-Working with a small core team and a wider cast of part-time staff means that clear and open communication is vital. At Maison Du Velo we didn't necessarily have the number of people necessary to have specialised roles for things like event management, online sales and social media communications so I instituted and lead short daily task settings and weekly 'lessons leanrt' meetings. This helped us to priroitise, kept everyone accountable, made efficient use of our time and ensured that no customers or projects were neglected.
+Working with a small core team and a wider cast of part-time staff means that clear and open communication is vital. At Maison Du Velo we didn't necessarily have the number of people necessary to have specialised roles for things like event management, online sales and social media communications so I instituted and lead short daily task settings and weekly 'lessons learnt' meetings. This helped us to prioritise, kept everyone accountable, made efficient use of our time and ensured that no customers or projects were neglected.
 
-I found this experience transferred very well into the Agile processes we used during our project work at Makers. By the halfway mark of our final, two week project it had become clear to me that our team had lost our way and were not on track to deliver a product matching the brief we had set ourselves. I organised an d led an emergency meeting and planning session during which we talked honestly, without blame, about where we had gone wrong. We agreed to streamline our product and broke it down into small, achievable goals, arranged into two, two day sprints. We met our brief and delivered a product we were all proud of.
+I found this experience transferred very well into the Agile processes we used during our project work at Makers. By the halfway mark of our final project it had become clear to me that our team had lost our way and were not on track to deliver a product matching the brief we had set ourselves. I organised and led an emergency meeting and planning session during which we talked honestly, without blame, about where we had gone wrong. We agreed to streamline our product and broke it down into small, achievable goals, arranged into two, two-day sprints. We met our brief and delivered a product we were all proud of.
 
 
 ## Education
@@ -83,17 +83,25 @@ I found this experience transferred very well into the Agile processes we used d
 
 ## Experience
 #### Maison Du Velo - Cycle Retailer, Hub, Cafe & Events Company (2014 - 2020)
-- My role evolved from a **Sales Assistant (2014)** to **Cafe Manager (2015 - 2017)** to **Senior Management Team (2017 - 2020)**
+I joined one of Surrey's premier cycling retailers in 2014 and climbed the ranks to join the three-strong management team by 2017. Throughout my time there I took pride in building and expanding a loyal and diverse customer base, to the extent that a very inclusive sense of community came to surround the business.
 
-- [??? Need to figure our how to describe this]
+- **Management Team (2017 - 2020)**
+  * Oversaw the overhaul of our buying and marketing strategies for the cycling side of the business. By increasing our focus on services and streamlining our brand portfolio we reduced our stockholding by 20% in 2018 and by 10 % again in 2019, contributing to profit increases of at least 10% each year
+  * Researched and introduced new retail management software (Citrus-Lime) in 2019 and even taught everyone how to use it! It resulted in quicker reporting, easier stock management and better website integration
+  * Managed, motivated and coordinated a staff of up to 15
+  * Managed payroll
+  * Ran regular cycling holidays and training camps abroad for customers
+  * Devised, publicised and organised events to promote the business and increase customer engagement. Weekly rides and social evenings were mainstays of our calendar but I also arranged book launches, product demos, yoga classes and race evenings!
+- **Cafe Manager (2015 - 2017)**
+  * Managed the hiring, scheduling, performance and happiness of a team of 6, expanded to 10 in 2017
+  * Managed the installation and set up of a second cafe at a second site in 2017
+- **Sales Assistant (2014/5)**
+  * Delivered sales by quickly building rapport with customers, using skilful questioning and expert knowledge to ensure a high conversion rate
 
-## Hobbies
+## Hobbies and Interests
 
 - Regularly attend tech meetups such as Codebar and volunteer at CodeYourFuture
 - British Cycling Cat 3 racer, club chairman and race organiser
-- Aspiring climber and yogi
+- Lockdown has turned me into a keen walker at a much earlier stage in life than I'd planned
 - Avid podcast listener - currently binge-listening to Gimlet's Reply All back catalogue
-
-Podcasts - reply all, other podcasts
-
-### Contact/Links
+- Currently plotting my participation in a Patagonian adventure race in early 2022
