@@ -64,9 +64,9 @@ I found this experience transferred very well into the Agile processes we used d
 
 ## Education
 
-#### Makers Academy (May - August 2020)
+#### Makers Academy (April - August 2020)
 
-- A 12 week intensive coding bootcamp, relying primarily on **self-led learning**
+- A 16 week intensive coding bootcamp, relying primarily on **self-led learning**
 - Strong focus on **Object-Orientated Programming** and **Test Driven Development**
 - Group work conducted using **Agile** processes with an emphasis on **XP** values
 - **Pair programming** almost every day
@@ -82,7 +82,7 @@ I found this experience transferred very well into the Agile processes we used d
 
 
 ## Experience
-#### Maison Du Velo - Cycle Retailer, Hub, Cafe & Events Company (2014 - 2020)
+#### Maison Du Velo - Cycle Retailer, Hub, Cafe & Events Company (2014 - May 2020)
 I joined one of Surrey's premier cycling retailers in 2014 and climbed the ranks to join the three-strong management team by 2017. Throughout my time there I took pride in building and expanding a loyal and diverse customer base, to the extent that a very inclusive sense of community came to surround the business.
 
 - **Management Team (2017 - 2020)**
