@@ -36,7 +36,7 @@ Driven, enthusiastic and empathetic full-stack developer. A fast learner with ex
 
 |     Project     |                                           Description                                          |                        Tech                        |
 |:---------------:|:----------------------------------------------------------------------------------------------:|:--------------------------------------------------:|
-| [Taped It](https://github.com/voice-notes)    | :construction: Work in progress :construction: - Group Project - Share voice notes with colleagues on Slack                                                            | React, GraphQL, Apollo Server, Express, Node, MongoDB                      |
+| [Taped It](https://github.com/voice-notes)    | :construction: Work in progress :construction: - Group project - share voice notes with colleagues on Slack                                                            | React, GraphQL, Apollo Server, Express, Node, MongoDB                      |
 | [Nah'Mazon](https://github.com/TimCPB/Nah-Mazon)    | Group project - an 'Amazon alternative' marketplace app to connect smaller, independent businesses with local customers                                                            | React, Express, Node, MongoDB                      |
 | [Acebook-Kindred](https://github.com/NikitaDouglas/acebook-Kindred) | Group project - a social media app with posting and liking functionality. Includes encrypted user authentication | Ruby on Rails, PostgreSQL, ActiveRecord, Bootstrap |
 | [Bank Tech Test](https://github.com/TimCPB/Bank)  | A CLI program emulating a bank account, with a focus on TDD, BDD, OOP                          | Ruby                                               |
@@ -62,6 +62,27 @@ Working with a small core team and a wider cast of part-time staff means that cl
 I found this experience transferred very well into the Agile processes we used during our project work at Makers. By the halfway mark of our final project it had become clear to me that our team had lost our way and were not on track to deliver a product matching the brief we had set ourselves. I organised and led an emergency meeting and planning session during which we talked honestly, without blame, about where we had gone wrong. We agreed to streamline our product and broke it down into small, achievable goals, arranged into two, two-day sprints. We met our brief and delivered a product we were all proud of.
 
 
+## Experience
+
+#### Maison Du Velo - Cycle Retailer, Hub, Cafe & Events Company (2014 - May 2020)
+I joined one of Surrey's premier cycling retailers in 2014 and climbed the ranks to join the three-strong management team by 2017. Throughout my time there I took pride in building and expanding a loyal and diverse customer base, to the extent that a very inclusive sense of community came to surround the business.
+
+- **Management Team (2017 - 2020)**
+  * Oversaw the overhaul of our buying and marketing strategies for the cycling side of the business. By increasing our focus on services and streamlining our brand portfolio we reduced our stockholding by 20% in 2018 and by 10 % again in 2019, contributing to profit increases of at least 10% each year
+  * Researched and introduced new retail management software (Citrus-Lime) in 2019 and even taught everyone how to use it! It resulted in quicker reporting, easier stock management and better website integration
+  * Managed, motivated and coordinated a staff of up to 15
+  * Managed payroll
+  * Ran regular cycling holidays and training camps abroad for customers
+  * Devised, publicised and organised events to promote the business and increase customer engagement. Weekly rides and social evenings were mainstays of our calendar but I also arranged book launches, product demos, yoga classes and race evenings!
+- **Cafe Manager (2015 - 2017)**
+  * Managed the hiring, scheduling, performance and happiness of a team of 6, expanded to 10 in 2017
+  * Managed the installation and set up of a second cafe at a second site in 2017
+- **Sales Assistant (2014/5)**
+  * Delivered sales by quickly building rapport with customers, using skilful questioning and expert knowledge to ensure a high conversion rate
+  
+#### Primary carer for a family member + part-time nanny/handyman for the Kitcatt family (2007 - 2014)
+Walton on the Hill, Surrey, UK/Tabagon, Galicia, Spain
+
 ## Education
 
 #### Makers Academy (April - August 2020)
@@ -79,24 +100,6 @@ I found this experience transferred very well into the Agile processes we used d
 #### Hewett School Sixth Form College 2001-2003 & Fakenham High School 1996-2003
 - A-levels in History (A), Sociology (A), Spanish (B), Maths (B)
 - GCSEs:  7 A* grades (including Maths, triple Science, Spanish and French) and 4 A grades)
-
-
-## Experience
-#### Maison Du Velo - Cycle Retailer, Hub, Cafe & Events Company (2014 - May 2020)
-I joined one of Surrey's premier cycling retailers in 2014 and climbed the ranks to join the three-strong management team by 2017. Throughout my time there I took pride in building and expanding a loyal and diverse customer base, to the extent that a very inclusive sense of community came to surround the business.
-
-- **Management Team (2017 - 2020)**
-  * Oversaw the overhaul of our buying and marketing strategies for the cycling side of the business. By increasing our focus on services and streamlining our brand portfolio we reduced our stockholding by 20% in 2018 and by 10 % again in 2019, contributing to profit increases of at least 10% each year
-  * Researched and introduced new retail management software (Citrus-Lime) in 2019 and even taught everyone how to use it! It resulted in quicker reporting, easier stock management and better website integration
-  * Managed, motivated and coordinated a staff of up to 15
-  * Managed payroll
-  * Ran regular cycling holidays and training camps abroad for customers
-  * Devised, publicised and organised events to promote the business and increase customer engagement. Weekly rides and social evenings were mainstays of our calendar but I also arranged book launches, product demos, yoga classes and race evenings!
-- **Cafe Manager (2015 - 2017)**
-  * Managed the hiring, scheduling, performance and happiness of a team of 6, expanded to 10 in 2017
-  * Managed the installation and set up of a second cafe at a second site in 2017
-- **Sales Assistant (2014/5)**
-  * Delivered sales by quickly building rapport with customers, using skilful questioning and expert knowledge to ensure a high conversion rate
 
 ## Hobbies and Interests
 
