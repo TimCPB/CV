@@ -21,8 +21,8 @@ Driven, enthusiastic and empathetic full-stack developer. A fast learner with ex
 <h2 align="center">
 
 <div align="center">
+  <a href="https://sourcerer.io/timcpb"><img src="https://img.shields.io/badge/JavaScript-391%20commits-%23c5b218?style=flat-square&logo=javascript&logoColor=white"></a>
 <a href="https://sourcerer.io/timcpb"><img src="https://img.shields.io/badge/Ruby-268%20commits-%23CC342D?style=flat-square&logo=ruby&logoColor=white"></a>
-<a href="https://sourcerer.io/timcpb"><img src="https://img.shields.io/badge/JavaScript-391%20commits-%23c5b218?style=flat-square&logo=javascript&logoColor=white"></a>
 <a href="https://sourcerer.io/timcpb"><img src="https://img.shields.io/badge/TypeScript-124%20commits-blue?style=flat-square&logo=typescript&logoColor=white"></a>
 <a href="https://sourcerer.io/timcpb"><img src="https://img.shields.io/badge/HTML-124%20commits-brightgreen?style=flat-square&logo=html5&logoColor=white"></a>
 <a href="https://sourcerer.io/timcpb"><img src="https://img.shields.io/badge/CSS-55%20commits-blueviolet?style=flat-square&logo=css3&logoColor=white"></a>
