@@ -53,8 +53,7 @@ I believe communication is key to effective collaboration and to a healthy, resp
 
 #### Collaboration / Team Work
 
-Since starting at Makers and in the projects I've been working on since I've been delighted to discover just how collaborative the process of software development can be. Pairing has been the most enjoyable part of my work and, for me, it's also one of the best routes towards good code, good problem solving and good learning. Communication is once again key and I've found that articulating my thinking as a driver and asking questions as a navigator, whether about problems or solutions, is one of the most effective and rewarding ways of learning.
-
+Having worked on various projects since starting Makers I’ve been delighted to discover just how collaborative the process of software development can be. Pairing has been the most enjoyable part of my work and, for me, it’s also one of the best routes towards good code, good problem solving and good learning. Communication is once again key and I’ve found that articulating my thinking as a driver and asking questions as a navigator, whether about problems or solutions, is one of the most effective and rewarding ways of learning.
 
 #### Leadership
 
